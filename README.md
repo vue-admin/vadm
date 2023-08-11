@@ -7,4 +7,9 @@ suto npm i vadm -g
 ## 使用
 ```bash
 vadm init demo
+cd demo
+npm i
+npm run dev
 ```
+## 访问
+http://localhost:5173/
